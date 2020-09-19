@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://github.com/karenmkrtumyan7" target="_blank">
+  Hi there 👋  I'm   <a href="https://github.com/karenmkrtumyan7">
   Karen</a> 👨‍💻 💻
 </h1>
 <p align='center'>
@@ -20,6 +20,7 @@
   </a>&nbsp;&nbsp;
 </p>
 <p align='center'>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=karenmkrtumyan7&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
 
@@ -40,7 +41,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<br />
+<hr />
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/ayushkul/ayushkul"></a>
 </p>
